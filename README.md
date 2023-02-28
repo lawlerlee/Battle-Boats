@@ -7,3 +7,4 @@
 # Running
 - Play by just downloading all files
 - Then run the BattleBoats.exe
+- Make sure your computer's resoulution is 1920x1080p if you're having issues related to the size of the screen
